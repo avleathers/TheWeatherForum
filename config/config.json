@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "weatherforum1",
+    "password": "Wirefox1",
+    "database": "weatherforum_db",
+    "host": "localhost",
+    "port": 3306,
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "weatherforum1",
+    "password": "Wirefox1",
+    "database": "weatherforum_db",
+    "host": "localhost",
+    "port": 3306,
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "weatherforum1",
+    "password": "Wirefox1",
+    "database": "weatherforum_db",
+    "host": "localhost",
+    "port": 3306,
+    "dialect": "mysql"
+  }
+}
